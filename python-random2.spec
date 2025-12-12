@@ -3,7 +3,7 @@
 Name:		python-random2
 Summary:	Python 2’s random module for Python 3
 Version:	1.0.1
-Release:	5
+Release:	6
 Source0:	https://files.pythonhosted.org/packages/ee/b5/5aca5217501fbd06b1e5aed6d5986baa0da5380880e6bb6f421ed18e3a32/%{fname}-%{version}.zip
 URL:		https://pypi.python.org/pypi/random2
 Group:		Development/Python

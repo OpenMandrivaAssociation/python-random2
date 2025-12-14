@@ -25,5 +25,4 @@ random module. It has also been back-ported to work in Python 2.6.
 %{__python} setup.py install --root=%{buildroot} --skip-build
 
 %files
-%doc README.txt
 %{python3_sitelib}/%{fname}*
